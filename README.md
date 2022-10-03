@@ -1,2 +1,2 @@
-# snaptime
-snapchat + facetime; a live video chat with snapchat-esque face filters
+# SliceCall
+testing slice calling; a live video chat with snapchat-esque face filters
